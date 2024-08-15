@@ -1,0 +1,5 @@
+Adam;Smith;14;Wilcot Street;Bath;B5 5RT;1234;5100.0;SAVINGS
+David;White;60;Holborn Viaduct;London;EC1A 2FD;1235;3200.0;CURRENT
+Alice;Churchil;5;Cardigan Street;Birmingham;B4 7BD;1236;17900.0;FIXED
+Baba;Abdallah;246;Armstrong Road;Luton;LU2 0FY;1237;300.0;CURRENT
+Dominion;Solomon;246;Birmingham Road;Birmingham;BM 0GD;1238;50000.0;SAVINGS
